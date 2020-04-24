@@ -1,3 +1,4 @@
 pyglet-master/
 .project
 .pydevproject
+*.pyc
