@@ -2,3 +2,4 @@ pyglet-master/
 .project
 .pydevproject
 *.pyc
+.vscode/
